@@ -1,6 +1,1 @@
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-rockylinux:9
-ubuntu:22.04
-busybox:1.28
-busybox:latest
-httpd:latest
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
