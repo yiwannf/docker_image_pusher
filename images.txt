@@ -1,1 +1,1 @@
-nacos-server:v2.0.4
+nacos/nacos-server:v2.0.4
